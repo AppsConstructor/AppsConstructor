@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobiles
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on educational applications
-- 📫 How to reach me? That's a problem!
+- 📫 How to reach me? That's the problem!
 
 <!---
 AppsConstructor/AppsConstructor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
